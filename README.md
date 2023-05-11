@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://links.kevinparralopez.com/](https://links.kevinparralopez.com/)
 
-- 💬 Ask me about **react, vue, ui, ux, webpack**
+- 💬 Ask me about **react, vue, ui, ux, webpack, react native**
 
 - 📫 How to reach me **kevinparra535@gmail.com**
 

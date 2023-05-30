@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Parra Lopez</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **TypeScript, Blender...**
+- 🌱 I’m currently learning **TypeScript, Kotlin...**
 
 - 👨‍💻 All of my projects are available at [https://links.kevinparralopez.com/](https://links.kevinparralopez.com/)
 

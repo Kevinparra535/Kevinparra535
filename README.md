@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kevin Parra Lopez</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **TypeScript, Kotlin...**
+- 🌱 I’m currently learning **Swift, Kotlin...**
 
 - 👨‍💻 All of my projects are available at [https://links.kevinparralopez.com/](https://links.kevinparralopez.com/)
 
 - 📝 I regularly write articles on [https://links.kevinparralopez.com/](https://links.kevinparralopez.com/)
 
-- 💬 Ask me about **react, vue, ui, ux, webpack, react native**
+- 💬 Ask me about **react, vue, ui, ux, webpack, react native, nodejs**
 
 - 📫 How to reach me **kevinparra535@gmail.com**
 

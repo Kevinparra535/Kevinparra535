@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">I'm Kevin Parra an apassionate Frontend Developer from Colombia<br><br><br>- 🌱 I’m currently learning Swift, Kotlin...<br>- 👨‍💻 All of my projects are available at [https://links.kevinparralopez.com/](https://links.kevcoder.co/)<br>- 📝 I regularly write articles on [https://links.kevinparralopez.com/](https://links.kevcoder.co/)<br>- 💬 Ask me about React, UI/UX, Webpack, React Native, Nodejs, Postgress<br>- 📫 How to reach me kevinparra535@gmail.com<br>- ⚡ Know about my experiences [https://links.kevinparralopez.com/](https://links.kevcoder.co/)</p>
+<p align="left">I'm Kevin Parra an apassionate Frontend Developer from Colombia<br><br><br>- 🌱 I’m currently learning Swift, Kotlin...<br>- 👨‍💻 All of my projects are available at https://links.kevcoder.co<br>- 📝 I regularly write articles on https://links.kevcoder.co<br>- 💬 Ask me about React, UI/UX, Webpack, React Native, Nodejs, Postgress<br>- 📫 How to reach me kevinparra535@gmail.com<br>- ⚡ Know about my experiences https://links.kevcoder.co</p>
 
 ###
 

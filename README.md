@@ -229,6 +229,12 @@ Developed an interactive 3D experience showcasing Intel retail partners worldwid
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://kevcoder.co/">
+  More in kevcoder.co
+  </a>
+</p>
+
 ---
 
 ### 📊 GitHub Stats

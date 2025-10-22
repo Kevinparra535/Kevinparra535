@@ -63,10 +63,7 @@ I'm a **Creative Technologist** and **Software Developer** with **7+ years** of 
       <a class="lab-card" href="https://github.com/Kevinparra535/creativedev.particles" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
       <img src="/images/labs_particles.gif" alt="Interactive Particle Logo" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
       <div style="padding:12px 14px; text-align:left;">
-        <h4 style="margin:0 0 6px 0;">Interactive Particle Logo</h4>
-        <p style="margin:0 0 8px 0; font-size:14px; line-height:1.4;">
-          Creative Labs: Particles
-        </p>
+        <h4 style="margin:0 0 6px 0;">Creative Labs: Particles</h4>
         <p style="margin:0; font-size:12px;">
           <code>React Three Fiber</code> <code>GLSL3</code> <code>ThreeJS</code>
           <code>Vite</code> <code>Zustand</code> <code>Styled-Components</code> <code>React Three Drei</code> <code>TypeScript</code> <code>React Three PostProcessing</code>

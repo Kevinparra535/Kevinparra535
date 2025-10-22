@@ -60,21 +60,14 @@ I’m a **Creative Technologist** and **Software Developer** with **7+ years** c
 
 ---
 
-### 🧪 Creative Labs (HTML Grid)
-
+<!-- CREATIVE LABS (HTML TABLE GRID SIN CSS) -->
+<h3 align="center">🧪 Creative Labs</h3>
 <p align="center">A curated wall of <b>experiments & prototypes</b> — touch, sound, physics, shaders, and narrative UI.</p>
 
-<!--
-  💡 Notas:
-  - Coloca tus capturas en /labs/
-  - 640×360 o 800×450 funciona bien para imágenes ligeras
-  - Repite <a class="lab-card">…</a> para más elementos
--->
-
-<div align="center">
-  <div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:16px; width:100%; max-width:1200px;">
-
-    <a class="lab-card" href="https://github.com/Kevinparra535/creativedev.particles" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a class="lab-card" href="https://github.com/Kevinparra535/creativedev.particles" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
       <img src="/images/labs_particles.gif" alt="Interactive Particle Logo" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
       <div style="padding:12px 14px; text-align:left;">
         <h4 style="margin:0 0 6px 0;">Interactive Particle Logo</h4>
@@ -82,13 +75,72 @@ I’m a **Creative Technologist** and **Software Developer** with **7+ years** c
           Creative Labs: Particles
         </p>
         <p style="margin:0; font-size:12px;">
-          <code>React Three Fiber</code> <code>GLSL</code> <code>Web Audio API</code>
+          <code>React Three Fiber</code> <code>GLSL3</code> <code>ThreeJS</code>
+          <code>Vite</code> <code>Zustand</code> <code>Styled-Components</code> <code>React Three Drei</code> <code>TypeScript</code> <code>React Three PostProcessing</code>
         </p>
       </div>
     </a>
+    </td>
+    <!-- <td align="center" width="33%">
+      <a href="https://github.com/Kevinparra535/flow-fields" target="_blank">
+        <img src="./labs/flow_fields.gif" alt="Flow Fields" width="100%" />
+        <br/>
+        <b>Flow Fields</b>
+      </a>
+      <br/>
+      <sub>Arte generativo con ruido de Perlin y dinámica de trayectorias.</sub>
+      <br/>
+      <sub><code>p5.js</code> <code>TypeScript</code></sub>
+    </td> -->
+    <!-- <td align="center" width="33%">
+      <a href="https://github.com/Kevinparra535/audio-reactive-sphere" target="_blank">
+        <img src="./labs/3d_audio_reactive.gif" alt="Audio Reactive 3D Sphere" width="100%" />
+        <br/>
+        <b>Audio Reactive 3D Sphere</b>
+      </a>
+      <br/>
+      <sub>Deformación de malla y emisión de partículas según amplitud.</sub>
+      <br/>
+      <sub><code>Three.js</code> <code>Web Audio API</code></sub>
+    </td> -->
 
-  </div>
-</div>
+  </tr>
+  <!-- <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/Kevinparra535/light-lab" target="_blank">
+        <img src="./labs/light_lab.gif" alt="Light Simulation Lab" width="100%" />
+        <br/>
+        <b>Light Simulation Lab</b>
+      </a>
+      <br/>
+      <sub>Reflexiones en tiempo real y difusión de luz en WebGL.</sub>
+      <br/>
+      <sub><code>R3F</code> <code>Shaders</code></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Kevinparra535/hand-tracking-ar" target="_blank">
+        <img src="./labs/hand_tracking.gif" alt="Hand Tracking AR" width="100%" />
+        <br/>
+        <b>Hand Tracking AR</b>
+      </a>
+      <br/>
+      <sub>Interacción AR web con seguimiento de manos.</sub>
+      <br/>
+      <sub><code>MediaPipe</code> <code>React</code></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/Kevinparra535" target="_blank">
+        <img src="./labs/coming_soon.png" alt="Coming Soon" width="100%" />
+        <br/>
+        <b>Coming Soon</b>
+      </a>
+      <br/>
+      <sub>Spatial interfaces, AI-driven visuals & motion-driven UI.</sub>
+      <br/>
+      <sub><code>WebGL</code> <code>AI</code> <code>UX</code></sub>
+    </td>
+  </tr> -->
+</table>
 
 ---
 

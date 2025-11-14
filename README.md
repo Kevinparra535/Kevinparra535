@@ -42,12 +42,14 @@
 
 ## 🧭 About Me
 
-I'm a **Creative Technologist** and **Software Developer** with **7+ years** of experience crafting products that blend **frontend engineering**, **creative coding**, and **design**. I lead projects with **Clean Architecture**, **SOLID principles**, and an eye for **interaction & motion**.
+I'm a **Creative Technologist** and **Software Developer** with **7+ years** of experience crafting products that blend **frontend engineering**, **creative coding**, and **design**.  
+I lead projects with **Clean Architecture**, **SOLID principles**, and an eye for **interaction & motion**... often stress-testing ideas in hackathons and rapid prototyping environments.
 
 - 🌎 **Location:** Cali, Colombia 🇨🇴
 - 🔬 **Currently exploring:** WebGL/GLSL, audio-reactive visuals, and creative prototyping
 - 🛠️ **Tech stack:** React, React Native, Node.js, MobX, Three.js
 - 🧠 **Approach:** Product-minded, performance-focused, design-driven
+- ⚡ **Love to work in:** High-pressure environments like hackathons, where ideas must ship fast but still feel crafted
 
 ---
 
@@ -133,6 +135,65 @@ I'm a **Creative Technologist** and **Software Developer** with **7+ years** of 
   </tr> -->
 </table>
 > 🚧 **More experiments coming soon:** Flow fields, audio-reactive visuals, hand tracking AR, and spatial interfaces
+
+---
+
+## 🏆 Hackathons & Live Prototyping
+
+<p align="center">
+  I love stress-testing ideas in <b>24–48 hour hackathons</b> — where constraints, time pressure and creativity collide.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a class="lab-card" href="#" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
+        <img src="/images/hackathon_smartfloors.png" alt="SmartFloors Hackathon" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
+        <div style="padding:12px 14px; text-align:left;">
+          <h4 style="margin:0 0 6px 0;">SmartFloors — Environmental AI Twin</h4>
+          <p style="margin:0 0 8px 0; font-size:14px; line-height:1.4;">
+            University hackathon project: a real-time, predictive monitoring platform where each floor is treated as a living organism that <b>breathes, reacts and anticipates</b> its thermal and energy state.
+          </p>
+          <p style="margin:0; font-size:12px;">
+            <code>React</code> <code>React Three Fiber</code> <code>Node.js</code> <code>Socket.IO</code> <code>Time-Series Prediction</code>
+          </p>
+        </div>
+      </a>
+    </td>
+    <!-- <td align="center" width="33%">
+      <a class="lab-card" href="#" target="_blank" style="text-decoration:none; border:1px dashed #2d2d2d; border-radius:14px; padding:24px 18px; display:flex; flex-direction:column; justify-content:center; background:#050608;">
+        <div style="text-align:left;">
+          <h4 style="margin:0 0 6px 0;">Creative Infra & Smart Spaces</h4>
+          <p style="margin:0 0 8px 0; font-size:14px; line-height:1.4;">
+            Prototyping ideas around <b>buildings as interfaces</b>: HVAC insights, energy flows, and spatial visualizations powered by WebGL, sensors and AI.
+          </p>
+          <p style="margin:0; font-size:12px;">
+            <code>WebGL</code> <code>Data Viz</code> <code>IoT Concepts</code>
+          </p>
+        </div>
+      </a>
+    </td> -->
+    <!-- <td align="center" width="33%">
+      <a class="lab-card" href="https://links.kevcoder.co" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
+        <img src="/images/hackathon_more.png" alt="More Hackathons" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
+        <div style="padding:12px 14px; text-align:left;">
+          <h4 style="margin:0 0 6px 0;">More Hackathons & Experiments</h4>
+          <p style="margin:0 0 8px 0; font-size:14px; line-height:1.4;">
+            From AI-driven visuals to offline-first tools, I use hackathons as a playground to validate concepts quickly and tell interactive stories under tight deadlines.
+          </p>
+          <p style="margin:0; font-size:12px;">
+            <code>Rapid Prototyping</code> <code>Creative Tech</code> <code>Product Thinking</code>
+          </p>
+        </div>
+      </a>
+    </td> -->
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Hackathons are where I test how far I can push <b>creative technology</b> in very little time.</sub>
+</p>
+
 ---
 
 ## 💼 Professional Work

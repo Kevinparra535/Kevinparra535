@@ -147,7 +147,7 @@ I lead projects with **Clean Architecture**, **SOLID principles**, and an eye fo
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <a class="lab-card" href="#" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
+      <a class="lab-card" href="https://github.com/Kevinparra535/hackaton.smartfloors" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
         <img src="/images//hackathon_unicatolica.gif" alt="SmartFloors Hackathon" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
         <div style="padding:12px 14px; text-align:left;">
           <h4 style="margin:0 0 6px 0;">SmartFloors — Environmental AI Twin</h4>
@@ -161,7 +161,7 @@ I lead projects with **Clean Architecture**, **SOLID principles**, and an eye fo
       </a>
     </td>
         <td align="center" width="33%">
-      <a class="lab-card" href="#" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
+      <a class="lab-card" href="https://github.com/Kevinparra535/hackaton.smartfloors.backend" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
         <img src="/images//hackathon_unicatolica.gif" alt="SmartFloors Hackathon" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
         <div style="padding:12px 14px; text-align:left;">
           <h4 style="margin:0 0 6px 0;">SmartFloors — Backend</h4>

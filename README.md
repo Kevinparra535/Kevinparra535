@@ -56,6 +56,17 @@ I lead projects with **Clean Architecture**, **SOLID principles**, and an eye fo
 
 ---
 
+## 🏅 Awards & Recognition
+
+- [🥇 **1st Place – SmartFloors (Inter-University Hackathon 2024)**](https://www.linkedin.com/posts/kmp535_hackatons-hackathon-3d-activity-7395445477111914496-t-7j?utm_source=share&utm_medium=member_desktop&rcm=ACoAABxhuBMB1YMRc_MnYS-Vi9kYBzrvcNiIhWI)  
+  Developed a predictive 3D monitoring system that reimagines floors as living organisms.  
+  Technologies: React, Three.js, WebGL, Node.js, ML predictions, immersive UI.
+
+- 🎖️ Creative Labs – AI Emotion  
+  Recognized by peers for innovation in creative coding and interactive storytelling.
+
+---
+
 <!-- CREATIVE LABS (HTML TABLE GRID SIN CSS) -->
 
 ## 🧪 Creative Labs
@@ -152,6 +163,7 @@ I lead projects with **Clean Architecture**, **SOLID principles**, and an eye fo
     <td align="center" width="33%">
       <a class="lab-card" href="https://github.com/Kevinparra535/hackaton.smartfloors" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
         <img src="/images//hackathon_unicatolica.gif" alt="SmartFloors Hackathon" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
+        <img src="https://img.shields.io/badge/🥇_1st_Place_Hackathon-Gold-yellow?style=for-the-badge"/>
         <div style="padding:12px 14px; text-align:left;">
           <h4 style="margin:0 0 6px 0;">SmartFloors — Environmental AI Twin</h4>
           <p style="margin:0 0 8px 0; font-size:14px; line-height:1.4;">
@@ -166,6 +178,7 @@ I lead projects with **Clean Architecture**, **SOLID principles**, and an eye fo
         <td align="center" width="33%">
       <a class="lab-card" href="https://github.com/Kevinparra535/hackaton.smartfloors.backend" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
         <img src="/images//hackathon_unicatolica.gif" alt="SmartFloors Hackathon" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
+        <img src="https://img.shields.io/badge/🥇_1st_Place_Hackathon-Gold-yellow?style=for-the-badge"/>
         <div style="padding:12px 14px; text-align:left;">
           <h4 style="margin:0 0 6px 0;">SmartFloors — Backend</h4>
           <p style="margin:0 0 8px 0; font-size:14px; line-height:1.4;">

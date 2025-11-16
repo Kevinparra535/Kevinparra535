@@ -62,9 +62,6 @@ I lead projects with **Clean Architecture**, **SOLID principles**, and an eye fo
   Developed a predictive 3D monitoring system that reimagines floors as living organisms.  
   Technologies: React, Three.js, WebGL, Node.js, ML predictions, immersive UI.
 
-- 🎖️ Creative Labs – AI Emotion  
-  Recognized by peers for innovation in creative coding and interactive storytelling.
-
 ---
 
 <!-- CREATIVE LABS (HTML TABLE GRID SIN CSS) -->
@@ -163,14 +160,16 @@ I lead projects with **Clean Architecture**, **SOLID principles**, and an eye fo
     <td align="center" width="33%">
       <a class="lab-card" href="https://github.com/Kevinparra535/hackaton.smartfloors" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
         <img src="/images//hackathon_unicatolica.gif" alt="SmartFloors Hackathon" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
-        <img src="https://img.shields.io/badge/🥇_1st_Place_Hackathon-Gold-yellow?style=for-the-badge"/>
         <div style="padding:12px 14px; text-align:left;">
           <h4 style="margin:0 0 6px 0;">SmartFloors — Environmental AI Twin</h4>
           <p style="margin:0 0 8px 0; font-size:14px; line-height:1.4;">
             University hackathon project: a real-time, predictive monitoring platform where each floor is treated as a living organism that <b>breathes, reacts and anticipates</b> its thermal and energy state.
           </p>
           <p style="margin:0; font-size:12px;">
-            <code>React</code> <code>React Three Fiber</code> <code>Node.js</code> <code>Socket.IO</code> <code>Time-Series Prediction</code>
+            <code>React</code> <code>React Three Fiber</code> <code>Node.js</code> <code>Socket.IO</code> <code>Time-Series Prediction</code> 
+          </p>
+          <p style="margin:10px 0 0 0; font-size:12px;">
+            <img src="https://img.shields.io/badge/🥇_1st_Place_Hackathon-Gold-yellow?style=for-the-badge"/>
           </p>
         </div>
       </a>
@@ -178,7 +177,6 @@ I lead projects with **Clean Architecture**, **SOLID principles**, and an eye fo
         <td align="center" width="33%">
       <a class="lab-card" href="https://github.com/Kevinparra535/hackaton.smartfloors.backend" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
         <img src="/images//hackathon_unicatolica.gif" alt="SmartFloors Hackathon" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
-        <img src="https://img.shields.io/badge/🥇_1st_Place_Hackathon-Gold-yellow?style=for-the-badge"/>
         <div style="padding:12px 14px; text-align:left;">
           <h4 style="margin:0 0 6px 0;">SmartFloors — Backend</h4>
           <p style="margin:0 0 8px 0; font-size:14px; line-height:1.4;">
@@ -186,6 +184,9 @@ I lead projects with **Clean Architecture**, **SOLID principles**, and an eye fo
           </p>
           <p style="margin:0; font-size:12px;">
             <code>Node.js</code> <code>Socket.IO</code> <code>Time-Series Prediction</code> <code>JavaScript</code> <code>Express</code>
+          </p>
+          <p style="margin:10px 0 0 0; font-size:12px;">
+            <img src="https://img.shields.io/badge/🥇_1st_Place_Hackathon-Gold-yellow?style=for-the-badge"/>
           </p>
         </div>
       </a>

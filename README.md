@@ -18,6 +18,9 @@
   <a href="https://www.hackerrank.com/profile/kevinparra535" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="28" alt="HackerRank"/>
   </a>
+  <a href="#-hackathons--live-prototyping" target="_blank">
+    <img src="https://img.shields.io/badge/Hackathon-1st_Place_Winner-FFD700?style=for-the-badge&logo=trophy&logoColor=white" height="28" alt="Hackathon Winner"/>
+  </a>
 </div>
 
 <br/>

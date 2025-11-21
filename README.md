@@ -85,7 +85,7 @@ I lead projects with **Clean Architecture**, **SOLID principles**, and an eye fo
     </a>
     </td>
     <td align="center" width="33%">
-            <a class="lab-card" href="https://github.com/Kevinparra535/creativedev.ai-emotion/tree/v2-r3f" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
+    <a class="lab-card" href="https://github.com/Kevinparra535/creativedev.ai-emotion/tree/v2-r3f" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
       <img src="/images/labs_aiemotions.gif" alt="Interactive Particle Logo" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
       <div style="padding:12px 14px; text-align:left;">
         <h4 style="margin:0 0 6px 0;">Creative Labs: AI Emotions</h4>
@@ -96,17 +96,18 @@ I lead projects with **Clean Architecture**, **SOLID principles**, and an eye fo
       </div>
     </a>
     </td>
-    <!-- <td align="center" width="33%">
-      <a href="https://github.com/Kevinparra535/audio-reactive-sphere" target="_blank">
-        <img src="./labs/3d_audio_reactive.gif" alt="Audio Reactive 3D Sphere" width="100%" />
-        <br/>
-        <b>Audio Reactive 3D Sphere</b>
-      </a>
-      <br/>
-      <sub>Deformación de malla y emisión de partículas según amplitud.</sub>
-      <br/>
-      <sub><code>Three.js</code> <code>Web Audio API</code></sub>
-    </td> -->
+    <td align="center" width="33%">
+    <a class="lab-card" href="https://github.com/Kevinparra535/creativedev.imacube" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
+      <img src="/images/labs_iamacube.png" alt="Interactive Particle Logo" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
+      <div style="padding:12px 14px; text-align:left;">
+        <h4 style="margin:0 0 6px 0;">Creative Labs: I am a cubee</h4>
+        <p style="margin:0; font-size:12px;">
+          <code>React Three Fiber</code> <code>Ollama</code> <code>ThreeJS</code>
+          <code>Vite</code> <code>Zustand</code> <code>Styled-Components</code> <code>React Three Drei</code> <code>TypeScript</code>
+        </p>
+      </div>
+    </a>
+    </td>
 
   </tr>
   <!-- <tr>

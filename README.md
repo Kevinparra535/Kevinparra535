@@ -263,7 +263,7 @@ A selection of real-world projects where I contributed as a <b>Frontend Develope
       </a>
     </td>
     <td align="center" width="33%">
-      <a class="lab-card" href="https://dwntiktok.com" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
+      <a class="lab-card" href="https://uncapituloparaelmundo.nacionesunidas.org.co" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
         <img src="/images/professional_un.jpeg" alt="Interactive Particle Logo" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
         <div style="padding:12px 14px; text-align:left;">
           <h4 style="margin:0 0 6px 0;">3D Interactive Library — UN Colombia</h4>
@@ -279,7 +279,7 @@ A selection of real-world projects where I contributed as a <b>Frontend Develope
   </tr>
   <tr>
     <td align="center" width="33%">
-      <a class="lab-card" href="https://www.linkedin.com/in/kmp535/" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
+      <a class="lab-card" href="https://play.google.com/store/apps/details?id=com.hemav.layers.app" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
         <img src="/images/professional_layers.png" alt="Interactive Particle Logo" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
         <div style="padding:12px 14px; text-align:left;">
           <h4 style="margin:0 0 6px 0;">Field Management PWA</h4>
@@ -293,7 +293,7 @@ A selection of real-world projects where I contributed as a <b>Frontend Develope
       </a>
     </td>
     <td align="center" width="33%">
-      <a class="lab-card" href="https://www.linkedin.com/in/kmp535/" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
+      <a class="lab-card" href="https://agency.portinos.com" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
         <img src="/images/professional_intel.jpeg" alt="Interactive Particle Logo" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
         <div style="padding:12px 14px; text-align:left;">
           <h4 style="margin:0 0 6px 0;">Intel Display Zones</h4>
@@ -307,7 +307,7 @@ Developed an interactive 3D experience showcasing Intel retail partners worldwid
       </a>
     </td>
         <td align="center" width="33%">
-      <a class="lab-card" href="https://www.linkedin.com/in/kmp535/" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
+      <a class="lab-card" href="https://agency.portinos.com" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
         <img src="/images/professional_iot.jpeg" alt="Interactive Particle Logo" style="width:100%; aspect-ratio:16/9; object-fit:cover;">
         <div style="padding:12px 14px; text-align:left;">
           <h4 style="margin:0 0 6px 0;">Intel IoT</h4>

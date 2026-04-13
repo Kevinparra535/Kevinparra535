@@ -110,6 +110,28 @@ I lead projects with **Clean Architecture**, **SOLID principles**, and an eye fo
     </td>
 
   </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a class="lab-card" href="https://github.com/Kevinparra535/creativedev.ar-tech" target="_blank" style="text-decoration:none; border:1px solid #2d2d2d; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; background:#0d1117;">
+        <div style="padding:24px 14px 12px 14px; background:#0d1117; display:flex; align-items:center; justify-content:center;">
+          <span style="font-size:48px;">📐</span>
+        </div>
+        <div style="padding:12px 14px; text-align:left;">
+          <h4 style="margin:0 0 6px 0;">Creative Labs: AR Immersive Experience</h4>
+          <p style="margin:0 0 8px 0; font-size:14px; line-height:1.4;">
+            AR platform for architects to present 3D renders at real scale. Clients explore designs, switch materials in real time, and walk through the architectural space immersively.
+          </p>
+          <p style="margin:0; font-size:12px;">
+            <code>React Native</code> <code>Expo</code> <code>Three.js</code>
+            <code>React Three Fiber</code> <code>ARKit</code> <code>expo-roomplan</code> <code>TypeScript</code>
+          </p>
+        </div>
+      </a>
+    </td>
+    <td align="center" width="33%"></td>
+    <td align="center" width="33%"></td>
+  </tr>
+
   <!-- <tr>
     <td align="center" width="33%">
       <a href="https://github.com/Kevinparra535/light-lab" target="_blank">
